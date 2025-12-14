@@ -1,3 +1,5 @@
+app:
+  name: Jyoshna
 server:
   port: 8080
 
